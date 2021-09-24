@@ -2384,10 +2384,10 @@
         "repo": "kzhovn/obsidian-customizable-menu"
     },
     {
-        "id": "workspaces-plus",
-        "name": "Workspaces Plus",
-        "description": "Quickly switch and manage workspaces",
-        "author": "NothingIsLost",
-        "repo": "nothingislost/obsidian-workspaces-plus"
-    }
+        "id": "quick-latex",
+        "name": "Quick Latex for Obsidian",
+        "author": "joeyuping",
+        "description": "A simple plugin to simplify and speedup latex math typing.",
+        "repo": "joeyuping/quick_latex_obsidian"
+    },
 ]
